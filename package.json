@@ -1,0 +1,19 @@
+{
+  "name": "statsd-jutgraphite-backend",
+  "description": "Statsd backend that sends metrics to Jut using the graphite carbon protocol.",
+  "author": "Etsy and Jut",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jut-io/statsd-jutgraphite-backend.git"
+  },
+  "version": "0.6.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {
+  },
+  "engines": {
+    "node" : ">=0.8"
+  }
+}
